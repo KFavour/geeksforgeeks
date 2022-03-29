@@ -1,0 +1,3 @@
+def fork():
+    print("Everyday")
+    
