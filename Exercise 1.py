@@ -1,3 +1,0 @@
-def fork():
-    print("Everyday")
-    
